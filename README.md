@@ -32,10 +32,4 @@ This project is a documentation site covering the language, history, and culture
 
 ## Contributing
 
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Commit your changes
-5. Push your changes
-6. Open a pull request
-7. Wait for approval
+If you would like to contribute to this project, please read the [CONTRIBUTING](CONTRIBUTING.md) file for guidelines on how to get started.
