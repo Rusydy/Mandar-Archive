@@ -13,6 +13,7 @@ export default defineConfig({
           { text: 'Grammar', link: '/grammar/introduction' },
           { text: 'History', link: '/history/introduction' },
           { text: 'Dictionary', link: '/dictionary/introduction' },
+          { text: 'Literature', link: '/literature/introduction' },
         ],
         sidebar: {
           '/grammar/': [
@@ -25,6 +26,10 @@ export default defineConfig({
           ],
           '/dictionary/': [
             { text: 'Dictionary Search', link: '/dictionary/introduction' },
+          ],
+          '/literature/': [
+            { text: 'Introduction to Literature', link: '/literature/introduction' },
+            // Add more literature pages here
           ],
         },
       }
