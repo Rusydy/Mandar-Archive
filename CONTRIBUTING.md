@@ -1,5 +1,17 @@
 # Contributing to the Project
 
+> For Non-Developers
+
+Thank you for your interest in contributing to the Mandar Tribe Documentation project! We welcome contributions from everyone, whether you are a beginner or an experienced contributor. This document provides guidelines for contributing to the project.
+
+1. **Report Issues**: If you encounter any issues with the documentation, such as errors or missing information, please report them using the GitHub issue tracker.
+2. **Request Features**: If you have any suggestions for new features or improvements to the documentation, please submit them using the GitHub issue tracker.
+3. **Contribute Content**: If you would like to contribute new content to the documentation, such as articles, translations, or resources, for now please reach out by email <rusydymuhiddin@gmail.com> with the subject "Contribution to Mandar Tribe Documentation". Currently, we are working on setting up a more streamlined process for content contributions.
+
+Thank you for your interest in contributing!
+
+> For Developers
+
 Thank you for your interest in contributing to the Mandar Tribe Documentation project! We welcome contributions from everyone, whether you are a beginner or an experienced developer. This document provides guidelines for contributing to the project.
 
 1. **Fork the repository**: Click the "Fork" button in the upper right corner of the repository's page. This will create a copy of the repository in your GitHub account.
