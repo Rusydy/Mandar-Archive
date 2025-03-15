@@ -34,6 +34,7 @@ export default defineConfig({
         },
       }
     },
+    // NOTE: Always make the indonesian section will always be mirrored with the english section
     in: {
       label: 'Indonesia',
       lang: 'id',
