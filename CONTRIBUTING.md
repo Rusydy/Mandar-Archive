@@ -7,6 +7,7 @@ Thank you for your interest in contributing to the Mandar Tribe Documentation pr
 1. **Report Issues**: If you encounter any issues with the documentation, such as errors or missing information, please report them using the GitHub issue tracker.
 2. **Request Features**: If you have any suggestions for new features or improvements to the documentation, please submit them using the GitHub issue tracker.
 3. **Contribute Content**: If you would like to contribute new content to the documentation, such as articles, translations, or resources, for now please reach out by email <rusydymuhiddin@gmail.com> with the subject "Contribution to Mandar Tribe Documentation". Currently, we are working on setting up a more streamlined process for content contributions.
+4. **Add new words to the dictionary**: If you are a native speaker of Mandar or have knowledge of the language, you can contribute new words to the dictionary. You can do this by adding new entries to the [English-Mandar Spreadsheet](https://docs.google.com/spreadsheets/d/1cyGeEG5vttdXjkatbsh3Nk-HyAiGzODtAegI3-PG7l8/edit?usp=sharing) or the [English-Mandar Word List on Tatoeba](https://tatoeba.org/en/sentences_lists/show/173571).
 
 Thank you for your interest in contributing!
 
